@@ -7,8 +7,10 @@ using System.Threading.Tasks;
 
 namespace _008_metotlar
 {
-    internal class Program
+    internal class geriye_deger_dondurmeyen_metotolar
     {
+        // void dönüş değeri olmadığında tanımlıyoruz.
+        // main kod bloğumuz static olduğu için static tanımlıyoruz.
         static void ToplamaYap()
         {
             Console.Write("Lütfen bir sayı giriniz: ");
@@ -18,9 +20,9 @@ namespace _008_metotlar
 
             Console.WriteLine("İşlem Sonucu: " + (sayi1 + sayi2));
         }
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             ToplamaYap();
-        }
+        }*/
     }
 }

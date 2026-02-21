@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="geriye_deger_donduren_metotlar.cs" />
+    <Compile Include="geriye_deger_dondurmeyen_metotolar.cs" />
+    <Compile Include="ornek.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="void-metotoları-parametre-göndererek-kullanma.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
