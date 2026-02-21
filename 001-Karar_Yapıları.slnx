@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="001-if_else-if_else/001-if_else-if_else.csproj" Id="a79b7815-abe6-4af1-9a73-bd7045cb4189" />
+  <Project Path="002-switch_case/002-switch_case.csproj" Id="9507e00e-5c0f-4515-b488-200c71ecaf2a" />
+  <Project Path="003-For_Dongusu/003-For_Dongusu.csproj" Id="7fd086b9-c926-4f8e-a4c6-35ca4f8cea62" />
+  <Project Path="004-While_Dongusu/004-While_Dongusu.csproj" Id="afd0b2f4-a448-4ebb-8797-6e86155f6965" />
+  <Project Path="005-Do_While/005-Do_While.csproj" Id="181cb777-4a9a-4c5a-a623-fc86a6fb6237" />
+  <Project Path="006-Foreach_Dongusu/006-Foreach_Dongusu.csproj" Id="87a76aff-6d74-49b9-aa8d-c612dee20784" />
+  <Project Path="007-ic_ice_for_dongusu/007-ic_ice_for_dongusu.csproj" Id="ff797ce0-852d-417c-b9b2-700162ac8387" />
+  <Project Path="008-metotlar/008-metotlar.csproj" Id="5ba27855-0107-479f-8e73-d96f50e53bff" />
+</Solution>
