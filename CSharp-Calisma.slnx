@@ -11,4 +11,5 @@
   <Project Path="007-ic_ice_for_dongusu/007-ic_ice_for_dongusu.csproj" Id="ff797ce0-852d-417c-b9b2-700162ac8387" />
   <Project Path="008-metotlar/008-metotlar.csproj" Id="5ba27855-0107-479f-8e73-d96f50e53bff" />
   <Project Path="009-classlar/009-classlar.csproj" Id="202ce9ef-0e5f-4d71-9890-823652e64659" />
+  <Project Path="010-Erisim_Belirleyiciler/010-Erisim_Belirleyiciler.csproj" Id="8a4bdc4d-3b8d-454e-a6bf-941ce9c99d5b" />
 </Solution>
