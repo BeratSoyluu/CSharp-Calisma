@@ -16,4 +16,5 @@
   <Project Path="012-Struct_Yapilar/012-Struct_Yapilar.csproj" Id="99d36c7b-8c7a-4706-8ca8-45cfbd1b662b" />
   <Project Path="013-StringSinifi/013-StringSinifi.csproj" Id="f81c525e-b1d2-49fd-9a05-a7894ea7dff6" />
   <Project Path="014-Enumlar/014-Enumlar.csproj" Id="584dc5df-f7c3-425d-98ac-ad19a6d4eeae" />
+  <Project Path="015-Kalitim_Inheritance/015-Kalitim_Inheritance.csproj" Id="46e47349-868d-444a-8853-edc3ba06c4d1" />
 </Solution>
