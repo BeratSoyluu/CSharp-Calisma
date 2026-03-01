@@ -60,4 +60,6 @@ namespace _015_Kalitim_Inheritance
             Console.WriteLine("Apartman Yönetici: " + apartmanYoneticisi);
         }
     }
+
+    
 }
