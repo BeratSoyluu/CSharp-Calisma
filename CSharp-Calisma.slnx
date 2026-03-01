@@ -20,4 +20,5 @@
   <Project Path="016-Polimorfizm/016-Polimorfizm.csproj" Id="0813c6ab-8133-4f80-be33-aea36ce56f52" />
   <Project Path="017-Kapsulleme/017-Kapsulleme.csproj" Id="6dadd07e-31fc-409b-b0ff-c4bc99d40de3" />
   <Project Path="018-Interface_AraYuzler/018-Interface_AraYuzler.csproj" Id="6ab2750b-15ff-49fb-8557-232a3eb78574" />
+  <Project Path="019-AbstractClasses/019-AbstractClasses.csproj" Id="3885aff8-4ba9-4519-880d-dad18f471493" />
 </Solution>
