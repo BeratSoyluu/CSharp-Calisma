@@ -22,4 +22,5 @@
   <Project Path="018-Interface_AraYuzler/018-Interface_AraYuzler.csproj" Id="6ab2750b-15ff-49fb-8557-232a3eb78574" />
   <Project Path="019-AbstractClasses/019-AbstractClasses.csproj" Id="3885aff8-4ba9-4519-880d-dad18f471493" />
   <Project Path="020-Collections_Koleksiyonlar/020-Collections_Koleksiyonlar.csproj" Id="159ed861-63f2-4a9a-914d-b48de011de24" />
+  <Project Path="021-Delegates/021-Delegates.csproj" Id="22f1dff9-f799-4f4c-8ba0-dd642ea29ecc" />
 </Solution>
