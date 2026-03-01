@@ -21,4 +21,5 @@
   <Project Path="017-Kapsulleme/017-Kapsulleme.csproj" Id="6dadd07e-31fc-409b-b0ff-c4bc99d40de3" />
   <Project Path="018-Interface_AraYuzler/018-Interface_AraYuzler.csproj" Id="6ab2750b-15ff-49fb-8557-232a3eb78574" />
   <Project Path="019-AbstractClasses/019-AbstractClasses.csproj" Id="3885aff8-4ba9-4519-880d-dad18f471493" />
+  <Project Path="020-Collections_Koleksiyonlar/020-Collections_Koleksiyonlar.csproj" Id="159ed861-63f2-4a9a-914d-b48de011de24" />
 </Solution>
